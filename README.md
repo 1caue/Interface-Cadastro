@@ -1,5 +1,5 @@
 # Interface-Cadastro
-Interface de login criada para desktops Criada com a utilização da biblioteca Tkinter do Python, Nela o usuário terá que digiar seu: 
+Interface de login criada para desktops Criada com a utilização da biblioteca Tkinter do Python, Nela o usuário terá que digitar seu: 
 
 - IdUsuário
 - Nome
